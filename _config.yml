@@ -1,9 +1,9 @@
 # Site settings
-title: Tarek Swaidane blog
+title: Tarek Sw blog
 email: 
 description: "Computer Scientist."
 baseurl: ""
-url: "http://tareksw.github.io"
+url: "https://tareksw.github.io/"
 twitter_username: TarekSwaidane
 github_username:  TarekSw
 
