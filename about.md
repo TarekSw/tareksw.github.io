@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 includelink: true
 ---
 
-See my [website](#).
+<!-- See my [website](#). -->

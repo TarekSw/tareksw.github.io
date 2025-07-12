@@ -4,8 +4,9 @@ email:
 description: "Computer Scientist."
 baseurl: ""
 url: "https://tareksw.github.io/"
-twitter_username: TarekSwaidane
+twitter_username: tarek_swaidane
 github_username:  TarekSw
+linkedin_username:  tarek-swaidane
 
 # Build settings
 markdown: kramdown
