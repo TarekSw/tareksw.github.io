@@ -1,0 +1,86 @@
+I"�<div class="certifications-container">
+  <div class="page-intro">
+    <h1>Professional Certifications</h1>
+    <p>I'm passionate about continuous learning and staying current with cloud technologies, especially in AI/ML and software development. Here are my AWS certifications that demonstrate my expertise in machine learning, artificial intelligence, and cloud development practices.</p>
+  </div>
+
+  <div class="certifications-grid">
+    
+    <div class="cert-card">
+      <div class="cert-logo">
+        <img src="/assets/aws-certified-machine-learning-specialty.png" alt="AWS Machine Learning Specialty" />
+      </div>
+      <div class="cert-info">
+        <h3>AWS Certified Machine Learning – Specialty</h3>
+        <p class="cert-level">Specialty Level</p>
+        <div class="cert-details">
+          <span class="cert-code">MLS-C01</span>
+          <span class="cert-date">Valid: 3 years</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-logo">
+        <img src="/assets/aws-certified-machine-learning-engineer-associate.png" alt="AWS Machine Learning Engineer Associate" />
+      </div>
+      <div class="cert-info">
+        <h3>AWS Certified Machine Learning Engineer – Associate</h3>
+        <p class="cert-level">Associate Level</p>
+        <div class="cert-details">
+          <span class="cert-code">MLA-C01</span>
+          <span class="cert-date">Valid: 3 years</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-logo">
+        <img src="/assets/aws-certified-developer-associate.png" alt="AWS Developer Associate" />
+      </div>
+      <div class="cert-info">
+        <h3>AWS Certified Developer – Associate</h3>
+        <p class="cert-level">Associate Level</p>
+        <div class="cert-details">
+          <span class="cert-code">DVA-C02</span>
+          <span class="cert-date">Valid: 3 years</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-logo">
+        <img src="/assets/aws-certified-ai-practitioner-early-adopter.png" alt="AWS AI Practitioner Early Adopter" />
+      </div>
+      <div class="cert-info">
+        <h3>AWS Certified AI Practitioner (Early Adopter)</h3>
+        <p class="cert-level">Foundational Level</p>
+        <div class="cert-details">
+          <span class="cert-code">AIF-C01</span>
+          <span class="cert-date">Valid: 3 years</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-logo">
+        <img src="/assets/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" />
+      </div>
+      <div class="cert-info">
+        <h3>AWS Certified Cloud Practitioner</h3>
+        <p class="cert-level">Foundational Level</p>
+        <div class="cert-details">
+          <span class="cert-code">CLF-C02</span>
+          <a class="cert-date">Validate</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="cert-footer">
+    <p><strong>All certifications are current and regularly maintained.</strong></p>
+    <p>For verification of any certification, please contact me or check the AWS certification verification portal.</p>
+  </div>
+</div>
+:ET
