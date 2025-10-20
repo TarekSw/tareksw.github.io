@@ -1,0 +1,42 @@
+I"r<h1 id="welcome-to-my-blog">Welcome to My Blog!</h1>
+
+<p>Hello and welcome to my personal blog! I’m excited to share my thoughts, experiences, and insights with you.</p>
+
+<h2 id="about-this-blog">About This Blog</h2>
+
+<p>This blog will cover topics including:</p>
+
+<ul>
+  <li><strong>Computer Science</strong> - Technical articles and tutorials</li>
+  <li><strong>Programming</strong> - Code snippets and best practices</li>
+  <li><strong>Personal Projects</strong> - Updates on what I’m working on</li>
+  <li><strong>Industry Insights</strong> - Thoughts on technology trends</li>
+</ul>
+
+<h2 id="what-to-expect">What to Expect</h2>
+
+<p>I plan to post regularly about:</p>
+
+<ol>
+  <li>Technical tutorials and how-to guides</li>
+  <li>Project showcases and code reviews</li>
+  <li>Industry news and analysis</li>
+  <li>Personal reflections on software development</li>
+</ol>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<p>This is built with Jekyll and hosted on GitHub Pages. You can:</p>
+
+<ul>
+  <li>Subscribe to the <a href="/feed.xml">RSS feed</a></li>
+  <li>Follow me on <a href="https://github.com/TarekSw">GitHub</a></li>
+  <li>Connect with me on <a href="https://twitter.com/TarekSwaidane">Twitter</a></li>
+</ul>
+
+<p>Thanks for visiting, and I hope you find the content valuable!</p>
+
+<hr />
+
+<p><em>This is my first post using Jekyll. More exciting content coming soon!</em></p>
+:ET
