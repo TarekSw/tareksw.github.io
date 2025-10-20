@@ -20,7 +20,7 @@ includelink: true
         <h3>AWS Certified Data Engineer – Associate</h3>
         <p class="cert-level">Associate Level</p>
         <div class="cert-details">
-          <span class="cert-code">MLA-C01</span>
+          <span class="cert-code">DEA-C01</span>
           <a class="cert-validation" href="https://www.credly.com/badges/b1c6e4f2-cdf0-434e-8e44-e5b33f0c2dd3/public_url" target="_blank">Validate</a>
         </div>
       </div>
